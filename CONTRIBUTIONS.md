@@ -1,11 +1,13 @@
 # Contributions
 
 **Laiba Amir (BSEDS-23057)**
-I downloaded the PBS weekly Annexure and Report Excel files from the archive table and the PBS methodology document, worked through the data checks, and wrote the cleaning log and six-things check (item 4), the five questions (item 3), the EDA notes, chart headlines and confounder check write-up (item 5), the engagement journal (item 6), the proposal v2 note, the acquisition paragraphs and the limitations. The scripts were written with AI assistance (see AI_USE_LOG.md); I ran them and checked the outputs. Items led: [confirm which of items 2–6 you led].
+I led the five questions (item 3), the EDA notes, chart headlines and confounder check write-up (item 5) and the engagement journal (item 6), and wrote the proposal v2 note and the limitations. I also uploaded the files to the GitHub repository, which sits on Habib's account (habibbajwa43-lang), so commit c5c5a8c shows his username. Evidence: reports/3_five_questions.md, reports/5_eda_notes.md, reports/6_journal.md, reports/1_proposal_v2.md, reports/7_limitations.md.
 
 **Habib Javaid Bajwa (BSEDS-23066)**
-[Habib writes this paragraph himself: what he personally did, which of items 2–6 he led (at least two), and the evidence — commits, files or sections.]
+I led the acquisition record and raw data (item 2) and the cleaning log, six-things check and data dictionary (item 4). Evidence: reports/ACQUISITION.md, data/raw/, CLEANING.md, DATA_DICTIONARY.md, reports/checks_output.txt.
 
-**Shares claimed:** Laiba __% / Habib __%
+The scripts in src/ were written with AI assistance (see AI_USE_LOG.md); we ran them and checked the outputs.
 
-Signed: ____________________ (Laiba)   ____________________ (Habib)
+**Shares claimed:** Laiba 50% / Habib 50%
+
+Signed: __________Laiba Amir__________ (Laiba)   ______Habib Bajwa______________ (Habib)
