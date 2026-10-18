@@ -1,0 +1,63 @@
+=== SHAPE ===
+city table: 5202 rows, 6 weeks, 17 cities, 51 items
+national table: 971 rows, 19 weeks, 52 item names
+
+=== 1. MISSING ===
+city table: 18 of 5202 item-city-weeks not priced (PBS wrote 0)
+item                          city      
+Rice IRRI-6/9 (Sindh/Punjab)  Gujranwala    6
+                              Lahore        6
+                              Sialkot       6
+national table: missing price_avg = 0
+national gaps longer than 8 days:
+  2025-09-04 -> 2026-07-02 (301 days)
+
+=== 2. DUPLICATES ===
+city table duplicate item-city-week: 0
+national table duplicate item-week: 0
+
+=== 3. WRONG TYPES ===
+week_ending    datetime64[us]
+city_code               int64
+city                      str
+item_no                 int64
+item                      str
+unit                      str
+price_min             float64
+price_avg             float64
+price_max             float64
+source_file               str
+reported                 bool
+min > avg or avg > max (city): 0
+negative prices: 0
+
+=== 4. UNITS ===
+items whose unit changes across weeks/cities (city table): 0
+unit counts (one item each):
+unit
+1 Kg          17
+Each          14
+1 mtr          4
+Pair           3
+1 Dozen        2
+Per Plate      2
+Per Litre      2
+20 Kg          1
+1 Ltr          1
+Per Cup        1
+Per Unit       1
+MMBTU          1
+40 Kg          1
+Per Minute     1
+
+=== 5. ENCODING ===
+item names with non-ASCII characters: []
+city names: ['Bahawalpur', 'Bannu', 'Faisalabad', 'Gujranwala', 'Hyderabad', 'Islamabad', 'Karachi', 'Khuzdar', 'Lahore', 'Larkana', 'Multan', 'Peshawar', 'Quetta', 'Rawalpindi', 'Sargodha', 'Sialkot', 'Sukkur']
+
+=== 6. DRIFT ===
+item names not present in every week (national):
+item
+Gas Charges for Q1               18
+Gas Charges upto 3.3719 MMBTU     3
+weekday of week_ending: {'Thursday': 18, 'Wednesday': 1}
+non-Thursday weeks: ['2025-08-13']
