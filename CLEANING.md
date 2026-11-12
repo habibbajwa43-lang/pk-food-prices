@@ -1,6 +1,7 @@
 # Cleaning Log
 
-Numbers referenced below come from `reports/checks_output.txt` (produced by `src/checks.py`).
+Entries 1–5 and the six-things check were written for Assignment 1; their numbers come from `reports/checks_output.txt`.
+Entries 6–10 were added at the forecasting stage (November 2026), when the full PBS archive was added; their numbers come from `reports/checks_output_v2.txt` and `src/parse_reports.py`.
 
 ## Entries
 
@@ -24,6 +25,23 @@ I did not keep both rows because that would double-count the same item-week and 
 **5. Wide report-style Excel layout.**
 I found that the PBS Excel annexures use a wide, report-style layout, with cities arranged in three column groups, each city having MIN, AVG and MAX columns, and items listed in rows. I converted the six files into long format, producing 5,202 rows (6 × 17 × 51), where each row represents one item, one city and one week; this format makes it easier to filter, compare cities and weeks, and prepare data for charts and forecasting.
 I did not manually copy and paste data or edit the original Excel files because code-based processing is more consistent, reproducible and less likely to introduce manual errors.
+
+## Update for the forecasting stage (November 2026)
+
+**6. Added the full PBS Report archive (52 weeks).**
+The 9 Report files used for Assignment 1 gave 19 weeks with a 301-day gap. PBS's archive lists 52 Report Excel files (weeks ending 23-10-2025 to 05-11-2026); with their "previous week" and "same week last year" columns they cover 24-10-2024 to 05-11-2026. The national table grew from 971 rows (19 weeks) to 5,202 rows (102 weeks, 51 items). How the files were read and checked is in `data/raw/pbs_report_extract/README.md`.
+
+**7. Gas labels merged (this reverses entry 2).**
+With the full archive the gas item appears under three labels: "Gas Charges for Q1", "Gas Charges upto 3.3719 MMBTU" and the typo "Gad Charges for Q1". Same unit (MMBTU), same prices in overlapping weeks, never two labels in the same file. Entry 2 kept the labels apart because gas was outside the food scope; the forecasting models now use all 51 items, so the three labels are mapped to "Gas Charges for Q1" in `src/parse_reports.py`. Rows affected: every gas row carrying the other two labels; no prices changed.
+
+**8. One price revision kept as the later figure.**
+Of 3,060 item-weeks reported more than once, all agree to the paisa except Electricity Charges for Q1, week ending 20-11-2025: Rs 4.83 in one report and Rs 5.40 in the other. We keep the value from the report where that week is the "current" week, following the rule in entry 4. We did not average the two, because one of them is PBS's own figure for that week and the other is a later restatement; one cell is affected.
+
+**9. Six weeks end on a Wednesday; five two-week gaps (no change).**
+2025-06-04, 2025-08-13, 2025-12-24, 2026-02-04, 2026-03-11 and 2026-03-18 end on a Wednesday (96 of 102 end on a Thursday), likely around public holidays. Five times PBS published no report for a week (e.g. 2026-05-21 to 2026-06-04, around Eid ul-Adha), leaving 13–14 day gaps. We did not shift dates or fill the missing weeks with invented prices; the models treat "next week" as "next published week", so at most one week is skipped.
+
+**10. Assignment 1 charts pinned to their original weeks (no change to the charts).**
+`src/eda_charts.py` now filters to the 19 weeks used in Assignment 1, so the EDA v1 charts and their numbers (e.g. onions +162.8% year on year) are unchanged after the new data was added.
 
 ## Six-things check
 
