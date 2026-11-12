@@ -20,6 +20,9 @@ import pandas as pd
 FIG = Path("reports/figures")
 FIG.mkdir(parents=True, exist_ok=True)
 nat = pd.read_csv("data/clean/spi_national_weekly.csv", parse_dates=["week_ending"])
+# Assignment 1 (EDA v1) used the weeks 2025-07-10..2025-09-04 and 2026-07-02..2026-09-03.
+# Keep these charts on exactly that window so they stay reproducible after more data was added.
+nat = nat[nat.week_ending.between("2025-07-10", "2025-09-04") | nat.week_ending.between("2026-07-02", "2026-09-03")]
 city = pd.read_csv("data/clean/spi_weekly_long.csv", parse_dates=["week_ending"])
 
 STAPLES = ["Tomatoes", "Onions", "Potatoes", "Eggs Hen (Farm)",
