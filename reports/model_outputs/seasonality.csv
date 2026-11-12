@@ -1,0 +1,613 @@
+item,month,avg_weekly_change_pct
+Bananas (Kela) Local,1,2.103656175299733
+Bananas (Kela) Local,2,8.230364337163621
+Bananas (Kela) Local,3,1.5591196161893528
+Bananas (Kela) Local,4,-2.5754288451246943
+Bananas (Kela) Local,5,0.4341659146717358
+Bananas (Kela) Local,6,0.7022380235267356
+Bananas (Kela) Local,7,-1.751563184948459
+Bananas (Kela) Local,8,-1.310315721704336
+Bananas (Kela) Local,9,-4.926733834417762
+Bananas (Kela) Local,10,-1.5920464730355668
+Bananas (Kela) Local,11,0.44505299367511636
+Bananas (Kela) Local,12,0.29418737837620945
+Beef with Bone (Average Quality),1,0.10662161279350713
+Beef with Bone (Average Quality),2,0.5175127330131368
+Beef with Bone (Average Quality),3,0.4477409382171116
+Beef with Bone (Average Quality),4,0.361511701591915
+Beef with Bone (Average Quality),5,0.47463496766422253
+Beef with Bone (Average Quality),6,0.0032049420378784297
+Beef with Bone (Average Quality),7,0.16260346265240422
+Beef with Bone (Average Quality),8,0.10781087560824965
+Beef with Bone (Average Quality),9,0.13611520197270854
+Beef with Bone (Average Quality),10,0.17490823169239242
+Beef with Bone (Average Quality),11,0.30226751849506467
+Beef with Bone (Average Quality),12,0.11728899708915996
+Bread plain (Small Size),1,0.10786271575967456
+Bread plain (Small Size),2,-0.35114801112560157
+Bread plain (Small Size),3,0.2734356948351224
+Bread plain (Small Size),4,0.5332019929918669
+Bread plain (Small Size),5,0.10766751220536719
+Bread plain (Small Size),6,0.01974055504327943
+Bread plain (Small Size),7,0.09341536477478485
+Bread plain (Small Size),8,-0.036701507008951584
+Bread plain (Small Size),9,0.24770615453681977
+Bread plain (Small Size),10,0.270944893225732
+Bread plain (Small Size),11,0.13215937923202067
+Bread plain (Small Size),12,0.06862043629384251
+Chicken Farm Broiler (Live),1,-0.3251222538991083
+Chicken Farm Broiler (Live),2,-0.37885871233751534
+Chicken Farm Broiler (Live),3,3.718537952464618
+Chicken Farm Broiler (Live),4,-4.554560624179713
+Chicken Farm Broiler (Live),5,2.5603722560154933
+Chicken Farm Broiler (Live),6,-6.8470377650724945
+Chicken Farm Broiler (Live),7,1.4780660881499053
+Chicken Farm Broiler (Live),8,3.1846792633735577
+Chicken Farm Broiler (Live),9,-4.3653784576425
+Chicken Farm Broiler (Live),10,0.5335155583700316
+Chicken Farm Broiler (Live),11,0.019610103687620985
+Chicken Farm Broiler (Live),12,3.829136544952638
+Chilies Powder NATIONAL 200 gm Packet,1,0.26750249919505364
+Chilies Powder NATIONAL 200 gm Packet,2,0.20822133245022023
+Chilies Powder NATIONAL 200 gm Packet,3,0.0
+Chilies Powder NATIONAL 200 gm Packet,4,0.0
+Chilies Powder NATIONAL 200 gm Packet,5,0.0
+Chilies Powder NATIONAL 200 gm Packet,6,0.0
+Chilies Powder NATIONAL 200 gm Packet,7,0.0
+Chilies Powder NATIONAL 200 gm Packet,8,0.12617509700383334
+Chilies Powder NATIONAL 200 gm Packet,9,0.0
+Chilies Powder NATIONAL 200 gm Packet,10,0.06482514138898503
+Chilies Powder NATIONAL 200 gm Packet,11,0.0
+Chilies Powder NATIONAL 200 gm Packet,12,1.1373495821697
+Cigarettes Capstan 20'S Packet,1,0.03924262257497091
+Cigarettes Capstan 20'S Packet,2,0.18599866244478624
+Cigarettes Capstan 20'S Packet,3,0.185939820717973
+Cigarettes Capstan 20'S Packet,4,0.12642384676795101
+Cigarettes Capstan 20'S Packet,5,0.012757757674952686
+Cigarettes Capstan 20'S Packet,6,0.2530413676542794
+Cigarettes Capstan 20'S Packet,7,0.11159165465287833
+Cigarettes Capstan 20'S Packet,8,0.043160541165898625
+Cigarettes Capstan 20'S Packet,9,0.0
+Cigarettes Capstan 20'S Packet,10,0.029732284169036272
+Cigarettes Capstan 20'S Packet,11,0.02783425934678421
+Cigarettes Capstan 20'S Packet,12,0.07583845549883339
+Cooked Beef at Average Hotel,1,0.0
+Cooked Beef at Average Hotel,2,0.02533169544314262
+Cooked Beef at Average Hotel,3,0.03080375626857146
+Cooked Beef at Average Hotel,4,0.19932621969386155
+Cooked Beef at Average Hotel,5,0.24952984759938346
+Cooked Beef at Average Hotel,6,0.0103816290055736
+Cooked Beef at Average Hotel,7,0.17384011894185925
+Cooked Beef at Average Hotel,8,0.10049540845029625
+Cooked Beef at Average Hotel,9,0.06745278749296091
+Cooked Beef at Average Hotel,10,0.05153975622449861
+Cooked Beef at Average Hotel,11,0.1986090546600039
+Cooked Beef at Average Hotel,12,0.08635540878088044
+Cooked Daal at Average Hotel,1,0.07980888331012181
+Cooked Daal at Average Hotel,2,0.02082137557009034
+Cooked Daal at Average Hotel,3,0.08153975423904614
+Cooked Daal at Average Hotel,4,0.15908814266861132
+Cooked Daal at Average Hotel,5,0.19224260675560306
+Cooked Daal at Average Hotel,6,0.17204765132605715
+Cooked Daal at Average Hotel,7,0.22401290067310065
+Cooked Daal at Average Hotel,8,0.03867966491111208
+Cooked Daal at Average Hotel,9,0.004373059571904925
+Cooked Daal at Average Hotel,10,0.15181786343163786
+Cooked Daal at Average Hotel,11,0.04194559057191485
+Cooked Daal at Average Hotel,12,0.1028939741470003
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",1,0.31054838228497417
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",2,-0.1184251389931501
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",3,-0.09377562201131617
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",4,0.03395644720682138
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",5,0.02591894948064481
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",6,0.11522750366757724
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",7,0.01807917800433323
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",8,0.01896810635833024
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",9,0.06753974983363387
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",10,0.12859740659661092
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",11,0.5144869682499437
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",12,0.7554568772200176
+Curd (Dahi) Loose,1,0.0
+Curd (Dahi) Loose,2,0.04305471828105478
+Curd (Dahi) Loose,3,-0.09296242627548912
+Curd (Dahi) Loose,4,0.2768236214171043
+Curd (Dahi) Loose,5,0.4476248981312529
+Curd (Dahi) Loose,6,0.08828043894924717
+Curd (Dahi) Loose,7,0.28833577761742113
+Curd (Dahi) Loose,8,0.07445499592524385
+Curd (Dahi) Loose,9,0.064326248874369
+Curd (Dahi) Loose,10,0.15810856007630777
+Curd (Dahi) Loose,11,0.049792469429466024
+Curd (Dahi) Loose,12,0.034536190757261664
+Eggs Hen (Farm),1,-3.643061536294763
+Eggs Hen (Farm),2,-2.9034467549736154
+Eggs Hen (Farm),3,-1.5602682386045674
+Eggs Hen (Farm),4,-0.4200883925997366
+Eggs Hen (Farm),5,3.856490651240222
+Eggs Hen (Farm),6,-2.511828731877941
+Eggs Hen (Farm),7,1.9488381766999296
+Eggs Hen (Farm),8,-0.09260297106212789
+Eggs Hen (Farm),9,0.793965410762909
+Eggs Hen (Farm),10,1.056559868538906
+Eggs Hen (Farm),11,1.5170528463809556
+Eggs Hen (Farm),12,-0.031943254297794876
+Electricity Charges for Q1,1,-0.877055804191056
+Electricity Charges for Q1,2,1.7914924873835698
+Electricity Charges for Q1,3,0.7410853621846875
+Electricity Charges for Q1,4,-2.4688418134807217
+Electricity Charges for Q1,5,-1.045639010557057
+Electricity Charges for Q1,6,-1.7751107931408106
+Electricity Charges for Q1,7,1.6592938343621366
+Electricity Charges for Q1,8,-0.925828186131647
+Electricity Charges for Q1,9,1.3472700741706949
+Electricity Charges for Q1,10,-0.36320046374286624
+Electricity Charges for Q1,11,2.410144461817485
+Electricity Charges for Q1,12,0.2066162743901312
+Energy Saver Philips 14 Watt,1,0.0
+Energy Saver Philips 14 Watt,2,0.0
+Energy Saver Philips 14 Watt,3,0.11335467830531076
+Energy Saver Philips 14 Watt,4,0.0
+Energy Saver Philips 14 Watt,5,0.08729222629398534
+Energy Saver Philips 14 Watt,6,0.043909441576387806
+Energy Saver Philips 14 Watt,7,0.07086613171336964
+Energy Saver Philips 14 Watt,8,0.0
+Energy Saver Philips 14 Watt,9,0.029066025239643523
+Energy Saver Philips 14 Watt,10,0.22567984765232393
+Energy Saver Philips 14 Watt,11,0.0
+Energy Saver Philips 14 Watt,12,0.07774671966360724
+Firewood Whole,1,0.35045949713687463
+Firewood Whole,2,0.01541359693293387
+Firewood Whole,3,0.058342669106214995
+Firewood Whole,4,-0.033523807822592275
+Firewood Whole,5,0.0831002021884982
+Firewood Whole,6,-0.0035241308515843173
+Firewood Whole,7,0.21144221437991106
+Firewood Whole,8,0.09255445399580786
+Firewood Whole,9,0.12200286301856655
+Firewood Whole,10,0.5199996990489372
+Firewood Whole,11,0.6034728302504572
+Firewood Whole,12,0.4281795825472057
+Garlic (Lehsun),1,0.32761449165368717
+Garlic (Lehsun),2,2.255221002535457
+Garlic (Lehsun),3,-2.287527953105317
+Garlic (Lehsun),4,-5.739464093717592
+Garlic (Lehsun),5,-3.494430446843507
+Garlic (Lehsun),6,-3.9725026989670287
+Garlic (Lehsun),7,1.9892155420173818
+Garlic (Lehsun),8,0.6884041570472621
+Garlic (Lehsun),9,0.5946776224559414
+Garlic (Lehsun),10,1.139135809944128
+Garlic (Lehsun),11,1.0346369560997402
+Garlic (Lehsun),12,0.4695413921961267
+Gas Charges for Q1,1,0.0
+Gas Charges for Q1,2,0.0
+Gas Charges for Q1,3,0.0
+Gas Charges for Q1,4,0.0
+Gas Charges for Q1,5,0.0
+Gas Charges for Q1,6,0.0
+Gas Charges for Q1,7,2.61215499263618
+Gas Charges for Q1,8,0.0
+Gas Charges for Q1,9,0.0
+Gas Charges for Q1,10,0.0
+Gas Charges for Q1,11,0.0
+Gas Charges for Q1,12,0.0
+Gents Sandal Bata,1,0.0
+Gents Sandal Bata,2,0.0
+Gents Sandal Bata,3,0.0
+Gents Sandal Bata,4,0.0
+Gents Sandal Bata,5,0.0
+Gents Sandal Bata,6,0.0
+Gents Sandal Bata,7,0.0
+Gents Sandal Bata,8,0.0
+Gents Sandal Bata,9,0.0
+Gents Sandal Bata,10,0.0
+Gents Sandal Bata,11,0.0
+Gents Sandal Bata,12,0.0
+Gents Sponge Chappal Bata,1,0.0
+Gents Sponge Chappal Bata,2,0.0
+Gents Sponge Chappal Bata,3,0.0
+Gents Sponge Chappal Bata,4,0.0
+Gents Sponge Chappal Bata,5,2.573152401972682
+Gents Sponge Chappal Bata,6,0.0
+Gents Sponge Chappal Bata,7,0.0
+Gents Sponge Chappal Bata,8,0.0
+Gents Sponge Chappal Bata,9,0.0
+Gents Sponge Chappal Bata,10,0.0
+Gents Sponge Chappal Bata,11,0.0
+Gents Sponge Chappal Bata,12,0.0
+Georgette (Average Quality),1,0.12413447855836424
+Georgette (Average Quality),2,0.0028319443441837677
+Georgette (Average Quality),3,0.2643891965518619
+Georgette (Average Quality),4,0.2708913839442594
+Georgette (Average Quality),5,0.1569754545556042
+Georgette (Average Quality),6,0.008910553976967012
+Georgette (Average Quality),7,0.0
+Georgette (Average Quality),8,0.007464915121824234
+Georgette (Average Quality),9,0.10308486593422206
+Georgette (Average Quality),10,0.053828751645778154
+Georgette (Average Quality),11,0.2188804774034578
+Georgette (Average Quality),12,0.01583063996224432
+Gur (Average Quality),1,-0.2188964469200716
+Gur (Average Quality),2,-0.21918903148155922
+Gur (Average Quality),3,0.10063428286254394
+Gur (Average Quality),4,0.13486923195906225
+Gur (Average Quality),5,0.6097213473161684
+Gur (Average Quality),6,0.9293369904143015
+Gur (Average Quality),7,0.44798924339874097
+Gur (Average Quality),8,0.24322681950740277
+Gur (Average Quality),9,0.16442963523156662
+Gur (Average Quality),10,-0.09923753372004544
+Gur (Average Quality),11,-0.49540071643359657
+Gur (Average Quality),12,-0.24395362452390712
+Hi-Speed Diesel,1,-0.10947537204150314
+Hi-Speed Diesel,2,1.005768900263393
+Hi-Speed Diesel,3,2.2071249761645872
+Hi-Speed Diesel,4,1.3749119463395607
+Hi-Speed Diesel,5,0.9805112652848299
+Hi-Speed Diesel,6,-0.7859877486812531
+Hi-Speed Diesel,7,1.091925079923124
+Hi-Speed Diesel,8,-1.1110987097231684
+Hi-Speed Diesel,9,1.3806125598434305
+Hi-Speed Diesel,10,-0.2473179506240829
+Hi-Speed Diesel,11,0.196117682986389
+Hi-Speed Diesel,12,-0.8418832202880422
+LPG 11.67 kg Cylinder,1,-0.3239074980322343
+LPG 11.67 kg Cylinder,2,-0.47046513232527065
+LPG 11.67 kg Cylinder,3,3.811351122402029
+LPG 11.67 kg Cylinder,4,0.7001582583204897
+LPG 11.67 kg Cylinder,5,-1.2036724689566882
+LPG 11.67 kg Cylinder,6,3.661663645351284
+LPG 11.67 kg Cylinder,7,-3.0069830211409965
+LPG 11.67 kg Cylinder,8,-0.039872798874174276
+LPG 11.67 kg Cylinder,9,1.4828221324748925
+LPG 11.67 kg Cylinder,10,2.0009668922538637
+LPG 11.67 kg Cylinder,11,2.296247242353348
+LPG 11.67 kg Cylinder,12,0.42974845818868346
+Ladies Sandal Bata,1,0.0
+Ladies Sandal Bata,2,0.0
+Ladies Sandal Bata,3,0.0
+Ladies Sandal Bata,4,0.0
+Ladies Sandal Bata,5,1.1506753906186016
+Ladies Sandal Bata,6,0.0
+Ladies Sandal Bata,7,0.0
+Ladies Sandal Bata,8,0.0
+Ladies Sandal Bata,9,0.0
+Ladies Sandal Bata,10,0.0
+Ladies Sandal Bata,11,4.913666002154018
+Ladies Sandal Bata,12,0.0
+Lawn Printed Gul Ahmed/Al Karam,1,0.0
+Lawn Printed Gul Ahmed/Al Karam,2,0.056096957242546264
+Lawn Printed Gul Ahmed/Al Karam,3,0.570232848752017
+Lawn Printed Gul Ahmed/Al Karam,4,0.3953209531377529
+Lawn Printed Gul Ahmed/Al Karam,5,0.13704944038305616
+Lawn Printed Gul Ahmed/Al Karam,6,0.06389325452791361
+Lawn Printed Gul Ahmed/Al Karam,7,0.002437129682597572
+Lawn Printed Gul Ahmed/Al Karam,8,0.04847066557943647
+Lawn Printed Gul Ahmed/Al Karam,9,0.05359897302416039
+Lawn Printed Gul Ahmed/Al Karam,10,0.03284321184479986
+Lawn Printed Gul Ahmed/Al Karam,11,0.002603353130729384
+Lawn Printed Gul Ahmed/Al Karam,12,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",1,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",2,0.15350334742382232
+"Long Cloth 57"" Gul Ahmed/Al Karam",3,0.266685807591871
+"Long Cloth 57"" Gul Ahmed/Al Karam",4,0.4017965873250478
+"Long Cloth 57"" Gul Ahmed/Al Karam",5,0.4536711424023417
+"Long Cloth 57"" Gul Ahmed/Al Karam",6,0.07178796816882382
+"Long Cloth 57"" Gul Ahmed/Al Karam",7,0.022250001559420696
+"Long Cloth 57"" Gul Ahmed/Al Karam",8,0.024902489359734936
+"Long Cloth 57"" Gul Ahmed/Al Karam",9,0.04265601057568125
+"Long Cloth 57"" Gul Ahmed/Al Karam",10,0.03635999614349895
+"Long Cloth 57"" Gul Ahmed/Al Karam",11,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",12,0.012352079799238247
+Match Box,1,0.0
+Match Box,2,0.0
+Match Box,3,0.0
+Match Box,4,0.0
+Match Box,5,0.0
+Match Box,6,0.02668802278289843
+Match Box,7,0.09554212804811613
+Match Box,8,0.0
+Match Box,9,0.0
+Match Box,10,0.0
+Match Box,11,0.01759479561826982
+Match Box,12,0.0
+Milk fresh (Un-boiled),1,0.03849665376329803
+Milk fresh (Un-boiled),2,0.0986672039959835
+Milk fresh (Un-boiled),3,-0.07642626252399864
+Milk fresh (Un-boiled),4,0.2750412720934175
+Milk fresh (Un-boiled),5,0.3784109194934734
+Milk fresh (Un-boiled),6,0.27411143545094474
+Milk fresh (Un-boiled),7,0.22499730205396418
+Milk fresh (Un-boiled),8,0.05030154601781689
+Milk fresh (Un-boiled),9,0.05038361074011233
+Milk fresh (Un-boiled),10,0.07504236298126314
+Milk fresh (Un-boiled),11,0.06463359517574732
+Milk fresh (Un-boiled),12,0.03567564669474388
+Mustard Oil (Average Quality),1,0.0896598023582218
+Mustard Oil (Average Quality),2,-0.17916509483262288
+Mustard Oil (Average Quality),3,-0.017936179284527842
+Mustard Oil (Average Quality),4,-0.4745601968009932
+Mustard Oil (Average Quality),5,-0.33067872099861917
+Mustard Oil (Average Quality),6,0.23011543367907153
+Mustard Oil (Average Quality),7,-0.10896767902645264
+Mustard Oil (Average Quality),8,0.48253564085043443
+Mustard Oil (Average Quality),9,0.10592467437142705
+Mustard Oil (Average Quality),10,0.22462409544509077
+Mustard Oil (Average Quality),11,0.7500472918132889
+Mustard Oil (Average Quality),12,0.3767258544304264
+Mutton (Average Quality),1,0.051565057008540194
+Mutton (Average Quality),2,0.43337286620351856
+Mutton (Average Quality),3,0.4695873845844023
+Mutton (Average Quality),4,0.497202581339826
+Mutton (Average Quality),5,0.36463996257533415
+Mutton (Average Quality),6,0.10481123174714095
+Mutton (Average Quality),7,0.11941177904359
+Mutton (Average Quality),8,0.07575726947091077
+Mutton (Average Quality),9,0.1820338307958358
+Mutton (Average Quality),10,0.104358593940048
+Mutton (Average Quality),11,0.17066602821198787
+Mutton (Average Quality),12,0.08919457590680357
+Onions,1,-6.319980129946696
+Onions,2,-0.9259311769780898
+Onions,3,-2.2619474166131748
+Onions,4,-3.736196802081393
+Onions,5,-1.2642407996321734
+Onions,6,4.594263478082095
+Onions,7,3.682528746770508
+Onions,8,8.699299757319423
+Onions,9,3.667775687121022
+Onions,10,6.165362806205665
+Onions,11,-3.6591363996867403
+Onions,12,-5.499666762905042
+Petrol Super,1,-0.23827984319485296
+Petrol Super,2,0.24191895164452637
+Petrol Super,3,2.689183866014999
+Petrol Super,4,2.2095550156109707
+Petrol Super,5,0.5427406169077849
+Petrol Super,6,-1.1482750586523593
+Petrol Super,7,-0.5731128227927673
+Petrol Super,8,-0.04963128917842008
+Petrol Super,9,1.5936282932202617
+Petrol Super,10,-0.31697042006007786
+Petrol Super,11,-0.3139124948860644
+Petrol Super,12,0.09191891982768263
+Potatoes,1,-8.187985714883617
+Potatoes,2,-2.7683713412259445
+Potatoes,3,-1.6828365088278563
+Potatoes,4,1.6855056947870435
+Potatoes,5,-0.6898516854645893
+Potatoes,6,8.998782334381989
+Potatoes,7,2.3707509463437137
+Potatoes,8,-0.5172330444564777
+Potatoes,9,-0.9163955465493645
+Potatoes,10,-0.05331496799018221
+Potatoes,11,0.355082328023906
+Potatoes,12,-3.9163864160738804
+Powdered Milk NIDO 390 gm Polybag,1,0.05078492710073768
+Powdered Milk NIDO 390 gm Polybag,2,0.047150148259422764
+Powdered Milk NIDO 390 gm Polybag,3,0.007113816428860886
+Powdered Milk NIDO 390 gm Polybag,4,0.02862788323378693
+Powdered Milk NIDO 390 gm Polybag,5,0.39247438199253953
+Powdered Milk NIDO 390 gm Polybag,6,0.2861970624035445
+Powdered Milk NIDO 390 gm Polybag,7,0.17596814802456784
+Powdered Milk NIDO 390 gm Polybag,8,0.06446124014499732
+Powdered Milk NIDO 390 gm Polybag,9,0.028909501020579764
+Powdered Milk NIDO 390 gm Polybag,10,0.05558590978435938
+Powdered Milk NIDO 390 gm Polybag,11,0.04029637601453078
+Powdered Milk NIDO 390 gm Polybag,12,0.09933035086988617
+Pulse Gram,1,-1.084556055580066
+Pulse Gram,2,-0.8765687950712864
+Pulse Gram,3,-0.9637204853113035
+Pulse Gram,4,0.24728398079180516
+Pulse Gram,5,0.027396425836630673
+Pulse Gram,6,-0.08862094669372192
+Pulse Gram,7,-0.003941528576065778
+Pulse Gram,8,0.7028149906025627
+Pulse Gram,9,0.2235118247804313
+Pulse Gram,10,0.5551804914126425
+Pulse Gram,11,-1.5340494697427054
+Pulse Gram,12,-1.0485174062901503
+Pulse Mash (Washed),1,-0.2012460497202095
+Pulse Mash (Washed),2,0.4013438779755907
+Pulse Mash (Washed),3,-0.16407094313847237
+Pulse Mash (Washed),4,-0.02820379435437559
+Pulse Mash (Washed),5,-0.2509469916376794
+Pulse Mash (Washed),6,-0.31073951616392337
+Pulse Mash (Washed),7,-0.18969549165125166
+Pulse Mash (Washed),8,-0.25900264037251874
+Pulse Mash (Washed),9,0.28571642991324087
+Pulse Mash (Washed),10,0.11655538855714909
+Pulse Mash (Washed),11,-0.3655574444575846
+Pulse Mash (Washed),12,-0.6885432707117611
+Pulse Masoor (Washed),1,-0.42039304170017106
+Pulse Masoor (Washed),2,-0.3393518368318582
+Pulse Masoor (Washed),3,-0.35611702902039744
+Pulse Masoor (Washed),4,0.05015459308267288
+Pulse Masoor (Washed),5,-0.1965185730891624
+Pulse Masoor (Washed),6,0.10579998100322581
+Pulse Masoor (Washed),7,-0.00702249681881817
+Pulse Masoor (Washed),8,-0.022986200648611455
+Pulse Masoor (Washed),9,0.24657850371658796
+Pulse Masoor (Washed),10,0.02270073728775786
+Pulse Masoor (Washed),11,-0.20282744819209875
+Pulse Masoor (Washed),12,-0.4450371435725353
+Pulse Moong (Washed),1,0.6209262260755111
+Pulse Moong (Washed),2,-0.1641235762198101
+Pulse Moong (Washed),3,-0.2121602033013703
+Pulse Moong (Washed),4,0.13895900197973018
+Pulse Moong (Washed),5,-0.034768197354839714
+Pulse Moong (Washed),6,-0.02289113132688906
+Pulse Moong (Washed),7,-0.8795563910013016
+Pulse Moong (Washed),8,-0.5568196128386105
+Pulse Moong (Washed),9,0.18480645551651742
+Pulse Moong (Washed),10,-0.09409054631655585
+Pulse Moong (Washed),11,0.09040173476379346
+Pulse Moong (Washed),12,0.21755259882105804
+Rice Basmati Broken (Average Quality),1,0.20578247975573835
+Rice Basmati Broken (Average Quality),2,-0.018836847466774387
+Rice Basmati Broken (Average Quality),3,-0.20131624404796655
+Rice Basmati Broken (Average Quality),4,-0.14201113420481012
+Rice Basmati Broken (Average Quality),5,0.021336706115748783
+Rice Basmati Broken (Average Quality),6,0.38475042826311423
+Rice Basmati Broken (Average Quality),7,0.20106387136581638
+Rice Basmati Broken (Average Quality),8,0.012150608168615129
+Rice Basmati Broken (Average Quality),9,0.549628770516486
+Rice Basmati Broken (Average Quality),10,-0.13243070889667022
+Rice Basmati Broken (Average Quality),11,-0.21000743667867441
+Rice Basmati Broken (Average Quality),12,-0.18805904001856222
+Rice IRRI-6/9 (Sindh/Punjab),1,0.05371194039398119
+Rice IRRI-6/9 (Sindh/Punjab),2,-0.24081454225747256
+Rice IRRI-6/9 (Sindh/Punjab),3,-0.05785888282766605
+Rice IRRI-6/9 (Sindh/Punjab),4,-0.35544426246156585
+Rice IRRI-6/9 (Sindh/Punjab),5,-0.16083468427954273
+Rice IRRI-6/9 (Sindh/Punjab),6,0.07709781755920928
+Rice IRRI-6/9 (Sindh/Punjab),7,0.12613672586763158
+Rice IRRI-6/9 (Sindh/Punjab),8,-0.026745431710151202
+Rice IRRI-6/9 (Sindh/Punjab),9,0.38093386775831517
+Rice IRRI-6/9 (Sindh/Punjab),10,-0.09655697256280117
+Rice IRRI-6/9 (Sindh/Punjab),11,-0.10381947243493567
+Rice IRRI-6/9 (Sindh/Punjab),12,-0.22106619782172876
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,1,-0.39691973724353957
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,2,-0.1888018046286688
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,3,0.0034707760878216476
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,4,0.08603779469994342
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,5,-0.007938398181354483
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,6,-0.1595671993769976
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,7,0.0
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,8,0.005130281396914516
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,9,-0.11263149413444085
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,10,0.01377126201511849
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,11,-0.478813966851277
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,12,-0.2527574864043314
+Shirting (Average Quality),1,0.1862156714806673
+Shirting (Average Quality),2,0.24060235381145878
+Shirting (Average Quality),3,0.04558822023247311
+Shirting (Average Quality),4,0.4794895904998795
+Shirting (Average Quality),5,0.023916241365432946
+Shirting (Average Quality),6,0.10561385836510932
+Shirting (Average Quality),7,0.11190665843452408
+Shirting (Average Quality),8,0.017589149536978432
+Shirting (Average Quality),9,0.05983139003350457
+Shirting (Average Quality),10,0.23802403941704367
+Shirting (Average Quality),11,0.11434343947849257
+Shirting (Average Quality),12,0.20313711855650673
+Sufi Washing Soap 250 gm Cake,1,0.04330491098001765
+Sufi Washing Soap 250 gm Cake,2,0.008525634069278532
+Sufi Washing Soap 250 gm Cake,3,0.0
+Sufi Washing Soap 250 gm Cake,4,0.2883391019194449
+Sufi Washing Soap 250 gm Cake,5,0.06555474982186857
+Sufi Washing Soap 250 gm Cake,6,0.30493779631493767
+Sufi Washing Soap 250 gm Cake,7,0.13329749268278235
+Sufi Washing Soap 250 gm Cake,8,0.03780023275120614
+Sufi Washing Soap 250 gm Cake,9,0.21374087186279978
+Sufi Washing Soap 250 gm Cake,10,0.05696655256166785
+Sufi Washing Soap 250 gm Cake,11,0.11065311919503291
+Sufi Washing Soap 250 gm Cake,12,0.13619550868887442
+Sugar Refined,1,0.6902086629481019
+Sugar Refined,2,0.2304981172479792
+Sugar Refined,3,0.6710704888498342
+Sugar Refined,4,-0.1462819725918527
+Sugar Refined,5,0.7495914250130447
+Sugar Refined,6,0.5958864603876624
+Sugar Refined,7,-0.18271544530755968
+Sugar Refined,8,0.028348888298390662
+Sugar Refined,9,0.03809786380005731
+Sugar Refined,10,-0.12775010019511707
+Sugar Refined,11,-0.021391557115574895
+Sugar Refined,12,-1.6581179278737257
+Tea Lipton Yellow Label 190 gm Packet,1,0.0
+Tea Lipton Yellow Label 190 gm Packet,2,-1.4271135493714726
+Tea Lipton Yellow Label 190 gm Packet,3,-0.8778624454608752
+Tea Lipton Yellow Label 190 gm Packet,4,0.0
+Tea Lipton Yellow Label 190 gm Packet,5,-0.19052486337409746
+Tea Lipton Yellow Label 190 gm Packet,6,0.0
+Tea Lipton Yellow Label 190 gm Packet,7,0.24678427674719394
+Tea Lipton Yellow Label 190 gm Packet,8,0.19165760827632994
+Tea Lipton Yellow Label 190 gm Packet,9,-0.0002796014002548475
+Tea Lipton Yellow Label 190 gm Packet,10,0.000781459101840586
+Tea Lipton Yellow Label 190 gm Packet,11,-0.018986551732661873
+Tea Lipton Yellow Label 190 gm Packet,12,0.0
+Tea Prepared Ordinary,1,0.1283062960811865
+Tea Prepared Ordinary,2,0.0
+Tea Prepared Ordinary,3,-0.04897965450464392
+Tea Prepared Ordinary,4,0.05596273993539766
+Tea Prepared Ordinary,5,0.2000387716105815
+Tea Prepared Ordinary,6,0.14001675486651582
+Tea Prepared Ordinary,7,0.07835946986019415
+Tea Prepared Ordinary,8,0.17938887617087174
+Tea Prepared Ordinary,9,0.007581501369635646
+Tea Prepared Ordinary,10,0.12726248999457693
+Tea Prepared Ordinary,11,0.21092081308235044
+Tea Prepared Ordinary,12,0.06963806311819365
+Telephone Call Charges,1,0.0
+Telephone Call Charges,2,0.0
+Telephone Call Charges,3,0.0
+Telephone Call Charges,4,0.0
+Telephone Call Charges,5,0.0
+Telephone Call Charges,6,0.0
+Telephone Call Charges,7,0.0
+Telephone Call Charges,8,0.0
+Telephone Call Charges,9,0.0
+Telephone Call Charges,10,0.0
+Telephone Call Charges,11,0.0
+Telephone Call Charges,12,0.0
+Toilet Soap LIFEBUOY 115 gm,1,-0.07560206352589027
+Toilet Soap LIFEBUOY 115 gm,2,0.5289928984863912
+Toilet Soap LIFEBUOY 115 gm,3,0.0
+Toilet Soap LIFEBUOY 115 gm,4,0.29081994571013875
+Toilet Soap LIFEBUOY 115 gm,5,0.07038116777489853
+Toilet Soap LIFEBUOY 115 gm,6,0.008597713199002637
+Toilet Soap LIFEBUOY 115 gm,7,0.2545800004097565
+Toilet Soap LIFEBUOY 115 gm,8,1.245801174899197
+Toilet Soap LIFEBUOY 115 gm,9,0.29739786048674777
+Toilet Soap LIFEBUOY 115 gm,10,0.14413249639860287
+Toilet Soap LIFEBUOY 115 gm,11,-0.15918924896343414
+Toilet Soap LIFEBUOY 115 gm,12,0.05462636241223562
+Tomatoes,1,-8.73711642723868
+Tomatoes,2,-5.69309001215621
+Tomatoes,3,5.9858739838423825
+Tomatoes,4,-9.119453127455973
+Tomatoes,5,1.9468379112000722
+Tomatoes,6,14.523944903853092
+Tomatoes,7,9.881224620123161
+Tomatoes,8,2.4446381903983627
+Tomatoes,9,0.8820363392867958
+Tomatoes,10,-3.578325047984707
+Tomatoes,11,5.833580811361758
+Tomatoes,12,-5.508452443308842
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,1,0.25053664178757984
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,2,-0.24503716594324043
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,3,-0.025325124752328954
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,4,-0.04600385496399777
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,5,-0.026764262196380766
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,6,0.11913651131824447
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,7,0.10499940736333536
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,8,0.03610357409524756
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,9,0.05434914620259246
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,10,0.2540293436751833
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,11,0.6127348610585158
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,12,0.9234975415346125
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,1,0.21188290026305626
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,2,-0.14455357548016634
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,3,-0.02051436636911763
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,4,0.002247632175262421
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,5,-0.1152967860378477
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,6,0.14619673763722751
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,7,0.12310846525863006
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,8,0.05761772789149022
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,9,0.030777904713896742
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,10,0.3785762332143298
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,11,0.8114592156044549
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,12,0.45408579381243097
+Wheat Flour Bag,1,1.0089452256633535
+Wheat Flour Bag,2,-1.1012986007862269
+Wheat Flour Bag,3,-0.4348307710877908
+Wheat Flour Bag,4,-1.5649777457026461
+Wheat Flour Bag,5,1.4633679702656277
+Wheat Flour Bag,6,0.02566779894143482
+Wheat Flour Bag,7,0.5692995931349731
+Wheat Flour Bag,8,2.812773206093633
+Wheat Flour Bag,9,1.4529663481702482
+Wheat Flour Bag,10,1.4825682833756575
+Wheat Flour Bag,11,-0.31662270199561443
+Wheat Flour Bag,12,0.09954224504482578

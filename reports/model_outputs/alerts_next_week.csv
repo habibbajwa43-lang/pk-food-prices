@@ -1,0 +1,205 @@
+item,model,p_rise5_%
+Bananas (Kela) Local,naive,6.976744186046512
+Beef with Bone (Average Quality),naive,0.0
+Bread plain (Small Size),naive,0.0
+Chicken Farm Broiler (Live),naive,23.25581395348837
+Chilies Powder NATIONAL 200 gm Packet,naive,0.0
+Cigarettes Capstan 20'S Packet,naive,0.0
+Cooked Beef at Average Hotel,naive,0.0
+Cooked Daal at Average Hotel,naive,0.0
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",naive,0.0
+Curd (Dahi) Loose,naive,0.0
+Eggs Hen (Farm),naive,4.651162790697675
+Electricity Charges for Q1,naive,6.976744186046512
+Energy Saver Philips 14 Watt,naive,0.0
+Firewood Whole,naive,0.0
+Garlic (Lehsun),naive,4.651162790697675
+Gas Charges for Q1,naive,0.0
+Gents Sandal Bata,naive,0.0
+Gents Sponge Chappal Bata,naive,2.3255813953488373
+Georgette (Average Quality),naive,0.0
+Gur (Average Quality),naive,0.0
+Hi-Speed Diesel,naive,16.27906976744186
+LPG 11.67 kg Cylinder,naive,20.930232558139537
+Ladies Sandal Bata,naive,2.3255813953488373
+Lawn Printed Gul Ahmed/Al Karam,naive,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",naive,0.0
+Match Box,naive,0.0
+Milk fresh (Un-boiled),naive,0.0
+Mustard Oil (Average Quality),naive,0.0
+Mutton (Average Quality),naive,0.0
+Onions,naive,25.581395348837212
+Petrol Super,naive,13.953488372093023
+Potatoes,naive,9.30232558139535
+Powdered Milk NIDO 390 gm Polybag,naive,0.0
+Pulse Gram,naive,0.0
+Pulse Mash (Washed),naive,0.0
+Pulse Masoor (Washed),naive,0.0
+Pulse Moong (Washed),naive,0.0
+Rice Basmati Broken (Average Quality),naive,0.0
+Rice IRRI-6/9 (Sindh/Punjab),naive,0.0
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,naive,0.0
+Shirting (Average Quality),naive,0.0
+Sufi Washing Soap 250 gm Cake,naive,0.0
+Sugar Refined,naive,0.0
+Tea Lipton Yellow Label 190 gm Packet,naive,0.0
+Tea Prepared Ordinary,naive,0.0
+Telephone Call Charges,naive,0.0
+Toilet Soap LIFEBUOY 115 gm,naive,0.0
+Tomatoes,naive,41.86046511627907
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,naive,0.0
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,naive,0.0
+Wheat Flour Bag,naive,6.976744186046512
+Bananas (Kela) Local,seasonal_naive,90.47619047619048
+Beef with Bone (Average Quality),seasonal_naive,0.0
+Bread plain (Small Size),seasonal_naive,0.0
+Chicken Farm Broiler (Live),seasonal_naive,9.523809523809524
+Chilies Powder NATIONAL 200 gm Packet,seasonal_naive,0.0
+Cigarettes Capstan 20'S Packet,seasonal_naive,0.0
+Cooked Beef at Average Hotel,seasonal_naive,0.0
+Cooked Daal at Average Hotel,seasonal_naive,0.0
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",seasonal_naive,0.0
+Curd (Dahi) Loose,seasonal_naive,0.0
+Eggs Hen (Farm),seasonal_naive,83.33333333333334
+Electricity Charges for Q1,seasonal_naive,0.0
+Energy Saver Philips 14 Watt,seasonal_naive,0.0
+Firewood Whole,seasonal_naive,0.0
+Garlic (Lehsun),seasonal_naive,19.047619047619047
+Gas Charges for Q1,seasonal_naive,61.904761904761905
+Gents Sandal Bata,seasonal_naive,0.0
+Gents Sponge Chappal Bata,seasonal_naive,0.0
+Georgette (Average Quality),seasonal_naive,0.0
+Gur (Average Quality),seasonal_naive,52.38095238095239
+Hi-Speed Diesel,seasonal_naive,21.428571428571427
+LPG 11.67 kg Cylinder,seasonal_naive,0.0
+Ladies Sandal Bata,seasonal_naive,0.0
+Lawn Printed Gul Ahmed/Al Karam,seasonal_naive,26.190476190476193
+"Long Cloth 57"" Gul Ahmed/Al Karam",seasonal_naive,0.0
+Match Box,seasonal_naive,0.0
+Milk fresh (Un-boiled),seasonal_naive,0.0
+Mustard Oil (Average Quality),seasonal_naive,0.0
+Mutton (Average Quality),seasonal_naive,0.0
+Onions,seasonal_naive,61.904761904761905
+Petrol Super,seasonal_naive,38.095238095238095
+Potatoes,seasonal_naive,16.666666666666664
+Powdered Milk NIDO 390 gm Polybag,seasonal_naive,64.28571428571429
+Pulse Gram,seasonal_naive,0.0
+Pulse Mash (Washed),seasonal_naive,0.0
+Pulse Masoor (Washed),seasonal_naive,0.0
+Pulse Moong (Washed),seasonal_naive,14.285714285714285
+Rice Basmati Broken (Average Quality),seasonal_naive,64.28571428571429
+Rice IRRI-6/9 (Sindh/Punjab),seasonal_naive,0.0
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,seasonal_naive,7.142857142857142
+Shirting (Average Quality),seasonal_naive,0.0
+Sufi Washing Soap 250 gm Cake,seasonal_naive,0.0
+Sugar Refined,seasonal_naive,73.80952380952381
+Tea Lipton Yellow Label 190 gm Packet,seasonal_naive,0.0
+Tea Prepared Ordinary,seasonal_naive,0.0
+Telephone Call Charges,seasonal_naive,0.0
+Toilet Soap LIFEBUOY 115 gm,seasonal_naive,0.0
+Tomatoes,seasonal_naive,33.33333333333333
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,seasonal_naive,0.0
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,seasonal_naive,0.0
+Wheat Flour Bag,seasonal_naive,35.714285714285715
+Bananas (Kela) Local,linear_lags,6.976744186046512
+Beef with Bone (Average Quality),linear_lags,0.0
+Bread plain (Small Size),linear_lags,0.0
+Chicken Farm Broiler (Live),linear_lags,27.906976744186046
+Chilies Powder NATIONAL 200 gm Packet,linear_lags,0.0
+Cigarettes Capstan 20'S Packet,linear_lags,0.0
+Cooked Beef at Average Hotel,linear_lags,0.0
+Cooked Daal at Average Hotel,linear_lags,0.0
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",linear_lags,0.0
+Curd (Dahi) Loose,linear_lags,0.0
+Eggs Hen (Farm),linear_lags,4.651162790697675
+Electricity Charges for Q1,linear_lags,6.976744186046512
+Energy Saver Philips 14 Watt,linear_lags,0.0
+Firewood Whole,linear_lags,0.0
+Garlic (Lehsun),linear_lags,6.976744186046512
+Gas Charges for Q1,linear_lags,0.0
+Gents Sandal Bata,linear_lags,0.0
+Gents Sponge Chappal Bata,linear_lags,2.3255813953488373
+Georgette (Average Quality),linear_lags,0.0
+Gur (Average Quality),linear_lags,0.0
+Hi-Speed Diesel,linear_lags,13.953488372093023
+LPG 11.67 kg Cylinder,linear_lags,27.906976744186046
+Ladies Sandal Bata,linear_lags,2.3255813953488373
+Lawn Printed Gul Ahmed/Al Karam,linear_lags,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",linear_lags,0.0
+Match Box,linear_lags,0.0
+Milk fresh (Un-boiled),linear_lags,0.0
+Mustard Oil (Average Quality),linear_lags,0.0
+Mutton (Average Quality),linear_lags,0.0
+Onions,linear_lags,32.55813953488372
+Petrol Super,linear_lags,6.976744186046512
+Potatoes,linear_lags,11.627906976744185
+Powdered Milk NIDO 390 gm Polybag,linear_lags,0.0
+Pulse Gram,linear_lags,0.0
+Pulse Mash (Washed),linear_lags,0.0
+Pulse Masoor (Washed),linear_lags,0.0
+Pulse Moong (Washed),linear_lags,0.0
+Rice Basmati Broken (Average Quality),linear_lags,0.0
+Rice IRRI-6/9 (Sindh/Punjab),linear_lags,0.0
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,linear_lags,0.0
+Shirting (Average Quality),linear_lags,0.0
+Sufi Washing Soap 250 gm Cake,linear_lags,0.0
+Sugar Refined,linear_lags,0.0
+Tea Lipton Yellow Label 190 gm Packet,linear_lags,0.0
+Tea Prepared Ordinary,linear_lags,0.0
+Telephone Call Charges,linear_lags,0.0
+Toilet Soap LIFEBUOY 115 gm,linear_lags,0.0
+Tomatoes,linear_lags,60.46511627906976
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,linear_lags,0.0
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,linear_lags,0.0
+Wheat Flour Bag,linear_lags,2.3255813953488373
+Bananas (Kela) Local,xgboost_lags,4.651162790697675
+Beef with Bone (Average Quality),xgboost_lags,0.0
+Bread plain (Small Size),xgboost_lags,0.0
+Chicken Farm Broiler (Live),xgboost_lags,23.25581395348837
+Chilies Powder NATIONAL 200 gm Packet,xgboost_lags,0.0
+Cigarettes Capstan 20'S Packet,xgboost_lags,0.0
+Cooked Beef at Average Hotel,xgboost_lags,0.0
+Cooked Daal at Average Hotel,xgboost_lags,0.0
+"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",xgboost_lags,0.0
+Curd (Dahi) Loose,xgboost_lags,0.0
+Eggs Hen (Farm),xgboost_lags,6.976744186046512
+Electricity Charges for Q1,xgboost_lags,6.976744186046512
+Energy Saver Philips 14 Watt,xgboost_lags,0.0
+Firewood Whole,xgboost_lags,0.0
+Garlic (Lehsun),xgboost_lags,4.651162790697675
+Gas Charges for Q1,xgboost_lags,0.0
+Gents Sandal Bata,xgboost_lags,0.0
+Gents Sponge Chappal Bata,xgboost_lags,2.3255813953488373
+Georgette (Average Quality),xgboost_lags,0.0
+Gur (Average Quality),xgboost_lags,0.0
+Hi-Speed Diesel,xgboost_lags,9.30232558139535
+LPG 11.67 kg Cylinder,xgboost_lags,20.930232558139537
+Ladies Sandal Bata,xgboost_lags,2.3255813953488373
+Lawn Printed Gul Ahmed/Al Karam,xgboost_lags,0.0
+"Long Cloth 57"" Gul Ahmed/Al Karam",xgboost_lags,0.0
+Match Box,xgboost_lags,0.0
+Milk fresh (Un-boiled),xgboost_lags,0.0
+Mustard Oil (Average Quality),xgboost_lags,0.0
+Mutton (Average Quality),xgboost_lags,0.0
+Onions,xgboost_lags,39.53488372093023
+Petrol Super,xgboost_lags,11.627906976744185
+Potatoes,xgboost_lags,11.627906976744185
+Powdered Milk NIDO 390 gm Polybag,xgboost_lags,0.0
+Pulse Gram,xgboost_lags,0.0
+Pulse Mash (Washed),xgboost_lags,0.0
+Pulse Masoor (Washed),xgboost_lags,0.0
+Pulse Moong (Washed),xgboost_lags,0.0
+Rice Basmati Broken (Average Quality),xgboost_lags,0.0
+Rice IRRI-6/9 (Sindh/Punjab),xgboost_lags,0.0
+Salt Powdered (NATIONAL/SHAN) 800 gm Packet,xgboost_lags,0.0
+Shirting (Average Quality),xgboost_lags,0.0
+Sufi Washing Soap 250 gm Cake,xgboost_lags,0.0
+Sugar Refined,xgboost_lags,0.0
+Tea Lipton Yellow Label 190 gm Packet,xgboost_lags,0.0
+Tea Prepared Ordinary,xgboost_lags,0.0
+Telephone Call Charges,xgboost_lags,0.0
+Toilet Soap LIFEBUOY 115 gm,xgboost_lags,0.0
+Tomatoes,xgboost_lags,11.627906976744185
+Vegetable Ghee DALDA/HABIB 2.5 kg Tin,xgboost_lags,0.0
+Vegetable Ghee DALDA/HABIB or Other superior Quality 1 kg Pouch,xgboost_lags,0.0
+Wheat Flour Bag,xgboost_lags,11.627906976744185
